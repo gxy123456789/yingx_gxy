@@ -29,7 +29,7 @@ public class GitTest {
 
     @Test
     public void contextLossads() {
-
+        int a=10;
 
     }
 
